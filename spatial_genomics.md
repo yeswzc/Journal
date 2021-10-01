@@ -9,4 +9,4 @@ Protein expression of 79 markers were variable between cores from same tumor...
   promoter mutation and N/O cell frequency.
   Co-occurence stratified tumors in to EGFR & CDK4 co-occocure high (OR higi) high vs non-co-occure (OR low)tumors. ORhigh and ORlow had distent frequency of 
   cell fractions and hTERT mutation.
-####  ORihgh tumors were highly enriched in proteins associated with immune cell infiltration and immunosuppressive microenvironment.
+####  ORhigh tumors were highly enriched in proteins associated with immune cell infiltration and immunosuppressive microenvironment.
