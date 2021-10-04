@@ -22,6 +22,7 @@ individual DSP protein markers, including HER2 and CD45, did not significantly d
 ### 3. William et. al. Single-nucleus and spatial transcriptomics of archival pancreatic cancer reveals multi-compartment reprogramming after neoadjuvant treatment. bioRxiv, 2020
 
 ### 4. Jessica et. al. Revisiting colorectal cancer tumorigenesis with spatially-resolved gene expression profiling. bioRxive, 2021
+8 pT1 CRC samples x 9 ROIs
 #### 1. Spatially resolved gene expression profiling of the transcriptomic *landscape* of CRC tumorigenesis.
 epithelial v.s. stromal, normal vs...
 samples of individual patiets did not form major **clusters (tSNE) but histologuc features** (nanostring CTA)
