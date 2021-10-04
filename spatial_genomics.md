@@ -24,7 +24,7 @@ individual DSP protein markers, including HER2 and CD45, did not significantly d
 ### 4. Jessica et. al. Revisiting colorectal cancer tumorigenesis with spatially-resolved gene expression profiling. bioRxive, 2021
 #### 1. Spatially resolved gene expression profiling of the transcriptomic *landscape* of CRC tumorigenesis.
 epithelial v.s. stromal, normal vs...
-samples of individual patiets did not form major **clusters (tSNE) but histologuc features**
+samples of individual patiets did not form major **clusters (tSNE) but histologuc features** (nanostring CTA)
 <img width="943" alt="Screen Shot 2021-10-04 at 10 00 06 AM" src="https://user-images.githubusercontent.com/10766283/135864861-036d824a-648a-49e0-872b-de3dee4f2cfa.png">
 #### 2. Biological processes associated CRC onset are distinct between epithelium and stroma.
 Genes correlated with histologic pregresssion (how?) --> network analysis
