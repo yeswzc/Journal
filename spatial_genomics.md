@@ -21,4 +21,21 @@ individual DSP protein markers, including HER2 and CD45, did not significantly d
 
 ### 3. William et. al. Single-nucleus and spatial transcriptomics of archival pancreatic cancer reveals multi-compartment reprogramming after neoadjuvant treatment. bioRxiv, 2020
 
-### 4.
+### 4. Jessica et. al. Revisiting colorectal cancer tumorigenesis with spatially-resolved gene expression profiling. bioRxive, 2021
+#### 1. Spatially resolved gene expression profiling of the transcriptomic *landscape* of CRC tumorigenesis.
+epithelial v.s. stromal, normal vs...
+samples of individual patiets did not form major **clusters (tSNE) but histologuc features**
+<img width="943" alt="Screen Shot 2021-10-04 at 10 00 06 AM" src="https://user-images.githubusercontent.com/10766283/135864861-036d824a-648a-49e0-872b-de3dee4f2cfa.png">
+#### 2. Biological processes associated CRC onset are distinct between epithelium and stroma.
+Genes correlated with histologic pregresssion (how?) --> network analysis
+#### 3. Immune-related alterations 194 during CRC progression.
+immune cell fraction (normal - carcinoma) --> immune-suppressed microvironment in tumor progression
+altered enrichment of WikiPathways focusing on the immune-related gene sets
+immunomodulatory gene expression related to anti-tumor immunity. **Evasion of tumor destructuion by inhibition of phagocytosis.**
+#### 4. Step-wise differential gene expression and biomarkers 256 of CRC tumorigenesis.
+CTA RNA panel DEG, protein validated...
+
+
+
+
+
